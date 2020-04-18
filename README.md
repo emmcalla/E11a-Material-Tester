@@ -125,3 +125,5 @@ Toon
 When you have completed the exercise, run it to ensure that everything is workign correctly. This exercise also contains an excellent example of a WorldEnvironment (and how to change environments using GDScript).
 
 When you are done, commit and push your changes to Github, and turn in the URL of your repository on Canvas.
+
+Assignment Complete
